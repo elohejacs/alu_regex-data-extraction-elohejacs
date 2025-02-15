@@ -6,7 +6,7 @@ class DataExtractor:
     A class that handles extraction of various data patterns using regex.
     """
     def __init__(self):
-        # Initialize regex patterns
+        # Initialize regexxxxxsz
         self.patterns = {
             'email': r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b',
             'url': r'https?://(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b(?:[-a-zA-Z0-9()@:%_\+.~#?&//=]*)',
@@ -61,7 +61,7 @@ def test_extractor():
     
     results = extractor.extract_data(test_text)
     
-    # Print results in a formatted way
+    # Printing results
     print("\nExtraction Results:")
     print("=" * 50)
     for pattern_type, matches in results.items():

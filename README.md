@@ -1,4 +1,4 @@
-# Regex Text Analyzer
+# Regex Text Analyzr
 
 A web-based tool that extracts specific patterns from user-provided text using **Regular Expressions (Regex)**. It identifies **emails, phone numbers, URLs, credit card numbers, timestamps, and hashtags** while handling various edge cases.
 
@@ -23,10 +23,10 @@ Paste or type text into the input box.
 Click the Analyze button.
 The extracted matches will be displayed.
 If no match is found for a specific pattern, a message will indicate that.
-🏗️ Technologies Used
+🏗 Technologies Used
 HTML5 - Structure of the web app.
 CSS3 - Styling and responsive design.
-JavaScript (ES6) - Core logic and Regex-based text processing.
+JavaScript (ES6 - Core logic and Regex-based text processing.
 🔍 Regex Patterns Used
 Pattern:
 Email	/\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}(?:\.[A-Za-z]{2,})?\b/g	Matches valid email formats.

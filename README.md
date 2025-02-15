@@ -13,8 +13,8 @@ A web-based tool that extracts specific patterns from user-provided text using *
 
 ### 1 Clone the Repository
 ```sh
-git clone https://github.com/henryparfait/alu_regex-data-extraction-henryparfait.git
-cd alu_regex-data-extractio-Tresor26
+git clone https://github.com/elohejacs/alu_regex-data-extraction-elohejacs.git
+cd alu_regex-data-extraction-elohejacs
 2️⃣ Open the Project
 Simply open index.html in your browser.
 
